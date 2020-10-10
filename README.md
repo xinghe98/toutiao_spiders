@@ -56,3 +56,6 @@ save.run()
 ## 其他
 - 文章抓取样例请范围<a href = 'https://github.com/xinghe98/toutiao_spiders/tree/main/test'>test</a>文件夹
 - 项目长期维护并更新
+
+## 关于作者
+- 邮箱：mystarandbell@163.com
